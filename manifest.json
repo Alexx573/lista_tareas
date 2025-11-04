@@ -1,0 +1,9 @@
+{
+  "name": "Lista de Tareas PWA",
+  "short_name": "Tareas PWA",
+  "description": "Una aplicación de lista de tareas que funciona offline.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3367D6"
+}
